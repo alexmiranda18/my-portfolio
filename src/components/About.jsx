@@ -23,7 +23,7 @@ const About = () => {
                     initial={{ opacity: 0, x: 100 }}
                     transition={{ duration: 1, delay: 0.5 }}
                     className="w-full lg:w-1/2">
-                    <div className="flex justify-center lg:justify-start">
+                    <div className="flex justify-center lg:justify-start text-justify leading-relaxed">
                         <p
                             className="my-2 max-w-xl py-6"
                             style={{ textIndent: '0.5em' }}>

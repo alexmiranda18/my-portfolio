@@ -26,7 +26,7 @@ export const EXPERIENCES = [
     year: "2020 - 2022",
     role: "Técnico",
     company: "Autônomo",
-    description: `Diagnóstico e reparo de computadores, notebooks e celulares. Configuração de sistemas operacionais, aplicativos e redes. Atendimento ao cliente e suporte técnico direto, garantindo a funcionalidade e segurança dos dispositivos.`,
+    description: `Diagnóstico e reparo de computadores, notebooks e celulares, configuração de sistemas operacionais, aplicativos e redes. Atendimento ao cliente e suporte técnico direto, garantindo a funcionalidade e segurança dos dispositivos.`,
     technologies: ["Diagnóstico", "Reparo", "Conhecimento de Hardware"],
   },
   {
